@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "ForcedJump",
+    "name": "ForcedJump",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://prplz.io",
+    "authorList": ["prplz"]
+  }
+]
